@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -31,5 +30,6 @@
             echo "Name: ". $n .", Roll: ". $r. "<br/";
         }
     ?>
+    <
 </body>
 </html>
